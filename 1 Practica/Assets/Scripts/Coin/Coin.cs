@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
-public class Coin : PLayerTriger
+public class Coin : PlayerTrigger
 {
     public int amountToGive = 1;
 
